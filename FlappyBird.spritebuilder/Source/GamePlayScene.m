@@ -1,7 +1,6 @@
 #import "GamePlayScene.h"
 #import "Character.h"
 #import "Obstacle.h"
-
 @implementation GamePlayScene
 
 - (void)initialize
