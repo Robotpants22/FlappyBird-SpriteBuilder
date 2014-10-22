@@ -21,7 +21,7 @@
 -(id) initWithCGPoint:(CGPoint)point offset:(CGPoint)offset;
 @end
 @implementation MainScene {
-    GPoint _cloudParallaxRatio;
+    CGPoint _cloudParallaxRatio;
     CGPoint _bushParallaxRatio;
     
     CCNode *_parallaxContainer;
